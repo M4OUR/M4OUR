@@ -16,10 +16,10 @@
 ## 🧩 Инструменты и технологии
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,postman,figma,vscode,drawio,excel" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,postman,vscode,drawio,excel" />
 </p>
 
-**UML, BPMN 2.0, REST API, Swagger, Visiology, Excel, Confluence, Jira, Miro**
+**UML, BPMN 2.0, REST API, Swagger, Excel, Docker, PostgreSQL, Python, FastAPI, SQLAlchemy,Django*
 
 ---
 
@@ -28,9 +28,9 @@
 | Проект | Описание | Стек |
 |--------|-----------|------|
 | **MadeTask Integration System** | Интеграция CRM и MadeTask через REST API: автоматизация задач и выплат | BPMN, UML, API, Excel |
-| **BI Dashboard (Visiology)** | Панель мониторинга задач и выплат исполнителей | Visiology, SQL |
+| **Binance WebSocket API** | Получение и агрегация данных о сделках в реальном времени | Django, WebSocket, Binance API |
 | **1С Process Automation** | Оптимизация внутренних процессов компании | 1С, SQL |
-
+| **Tron Wallet Info Microservice** | Сбор и анализ данных о кошельках Tron | FastAPI, SQLAlchemy, TronPy |
 ---
 
 ## 📊 Визуализация
