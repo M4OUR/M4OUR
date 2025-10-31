@@ -27,7 +27,7 @@
 
 | Проект | Описание | Стек |
 |--------|-----------|------|
-| **MadeTask Integration System** | Интеграция CRM и MadeTask через REST API: автоматизация задач и выплат | BPMN, UML, API, Excel |
+| **(https://github.com/M4OUR)** | Интеграция CRM и MadeTask через REST API: автоматизация задач и выплат | BPMN, UML, API, Excel |
 | **Binance WebSocket API** | Получение и агрегация данных о сделках в реальном времени | Django, WebSocket, Binance API |
 | **1С Process Automation** | Оптимизация внутренних процессов компании | 1С, SQL |
 | **Tron Wallet Info Microservice** | Сбор и анализ данных о кошельках Tron | FastAPI, SQLAlchemy, TronPy |
