@@ -27,6 +27,7 @@
 | Проект | Описание | Стек |
 |--------|-----------|------|
 | **[Интеграция CRM и MadeTask](https://github.com/M4OUR/MadeTask-Integration-System)** | Интеграция CRM и MadeTask через REST API: автоматизация задач и выплат | BPMN, UML, API, Excel |
+| **[TBank-Task-Planner](https://github.com/M4OUR/TBank-Task-Planner))** | Проектирование функции планировщика задач в экосистеме Т-Банк с интеграцией внешних сервисов | BPMN, UML, API, Figma |
 | **[Binance WebSocket API](https://github.com/M4OUR/BinanceApi)** | Получение и агрегация данных о сделках в реальном времени | Django, WebSocket, Binance API |
 | **[online-store-system-design](https://github.com/M4OUR/online-store-system-design)** | Разработка базы данных, REST API, UML-и BPMN-диаграмм для интернет-магазина и банковского приложения. | BPMN, UML, API, SQL |
 | **[Tron Wallet Info Microservice](https://github.com/M4OUR/Tron-Wallet-Info-Microservice)** | Сбор и анализ данных о кошельках Tron | FastAPI, SQLAlchemy, TronPy |
